@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Software development is the application of psychology to computer science with the very real constraint of economics.  It's just budgets, code, and people all the way down.
+Software development is the application of psychology to computer science with the very real constraint of economics.  It's budgets, code, and people all the way down.
 
 The people are my favorite part of the process.  We're all unique but with the same underlying emotions.  I can honestly say after 10+ years that I don't enjoy crowds much anymore. 
 
