@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer living in Wilmington, NC.  I build asp.net applications and I enjoy making clients happy.  When I
-m not writing software I love spending time with my beautiful wife and my 2 amazing boys!
+I'm a software developer living in Wilmington, NC.  I build asp.net applications and I enjoy making clients happy.  When I'm not writing software, I love spending time with my beautiful wife and my 2 amazing boys!
 
 ### Contact me
 
