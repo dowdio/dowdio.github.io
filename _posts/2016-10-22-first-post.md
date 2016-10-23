@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Software development is the application of psychology to computer science with the very real constraint of economics.  It's a never ending journey paved with budgets and code but the people are my favorite part.  They're all unique but with the same underlying emotions.  I can say after 10+ years that I don't enjoy crowds much anymore. 
 
