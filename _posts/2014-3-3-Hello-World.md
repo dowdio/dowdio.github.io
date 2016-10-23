@@ -3,11 +3,7 @@ layout: post
 title: You're up and running!
 published: true
 ---
-##
+## Hello World
 
-Hello World
-
-###
-
-thanks for having me!
+### thanks for having me!
 
