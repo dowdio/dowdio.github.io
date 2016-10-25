@@ -18,11 +18,11 @@ I've been practing Zazen for a few months and it has transformed the way I see t
 Notes from Wiki:
 According to Master Shengyen,
 
-"While you are practicing just sitting, be clear about everything going on in your mind. Whatever you feel, be aware of it, but never abandon the awareness of your whole body sitting there. Shikantaza is not sitting with nothing to do; it is a very demanding practice, requiring diligence as well as alertness. If your practice goes well, you will experience the 'dropping off' of sensations and thoughts. You need to stay with it and begin to take the whole environment as your body. Whatever enters the door of your senses becomes one totality, extending from your body to the whole environment. This is silent illumination."
+> While you are practicing just sitting, be clear about everything going on in your mind. Whatever you feel, be aware of it, but never abandon the awareness of your whole body sitting there. Shikantaza is not sitting with nothing to do; it is a very demanding practice, requiring diligence as well as alertness. If your practice goes well, you will experience the 'dropping off' of sensations and thoughts. You need to stay with it and begin to take the whole environment as your body. Whatever enters the door of your senses becomes one totality, extending from your body to the whole environment. This is silent illumination.
 
 https://en.wikipedia.org/wiki/Shikantaza
 
 
-"To study the Way is to study the Self. To study the Self is to forget the self. To forget the self is to be enlightened by all things of the universe. To be enlightened by all things of the universe is to cast off the body and mind of the self as well as those of others"
+> To study the Way is to study the Self. To study the Self is to forget the self. To forget the self is to be enlightened by all things of the universe. To be enlightened by all things of the universe is to cast off the body and mind of the self as well as those of others
 
 -Dogen Zenji
