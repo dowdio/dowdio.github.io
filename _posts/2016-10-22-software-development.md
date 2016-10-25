@@ -7,4 +7,4 @@ Software development is the application of psychology to computer science with t
 
 ![turtles](https://upload.wikimedia.org/wikipedia/commons/4/47/River_terrapin.jpg)
 
-I love making things work and I like to think I make peoples lives easier.  That's really my goal at the end of the day.  Build something that improves someone else's life. Even if it is just some html and little bit of javascript.
+I love making things work and I love making peoples lives easier.  That's really my goal at the end of the day.  Build something that improves someone else's life. Even if it is just some html and little bit of javascript.
