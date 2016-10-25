@@ -1,3 +1,6 @@
+---
+published: false
+---
 
 The most difficult part is sitting.  Sitting and observing thought.  Letting the mind go and observing your breath in one simple posture.  I'm not real when I'm in Zazen.  I am floating.  I hear sounds but I don't react.  Sometimes my mind reacts but I always bring it back to the breath.  It never escapes for to long.  Sometimes I catch myself planning or reminiscing.  Sometimes I'm tired.  
 
@@ -9,7 +12,8 @@ I never have imaginerary conversations.  That is something I don;t do much anymo
 
 
 I've been practing Zazen for a few months and it has transformed the way I see time.  My days have become weeks and my life more routine.  
-**Cast off body and mind
+
+### Cast off body and mind
 
 Notes from Wiki:
 According to Master Shengyen,
